@@ -31,6 +31,16 @@
       "id": 322
     },
     {
+      "name": "Virgotex Ximlord",
+      "links": {
+        "github": "https://github.com/virgotex",
+        "linkedin": "https://www.linkedin.com/in/Carlton Kibe",
+        "twitter": "https://twitter.com/Ximlor"
+      },
+      "stack": ["JavaScript", "React", "Node.js", "MongoDB"],
+      "id": 462
+    },
+    {
       "name": "Sherlock Holmes",
       "links": {
         "github": "https://github.com/sholmes",
